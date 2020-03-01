@@ -1,0 +1,10 @@
+Package: COZINE
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2020-02-29
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: GPL
+Imports: HurdleNormal, compositions, igraph
