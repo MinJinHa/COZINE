@@ -2,7 +2,7 @@
 
 Title: COZINE: COmpositional Zero-InflatedNetwork Estimation 
 
-Author: “Min Jin Ha” 
+Author: Min Jin Ha, mjha@mdanderson.org 
 
 Date: “3/1/2020” 
 
