@@ -1,9 +1,10 @@
 ------------------------------------------------------------------------
 
-title: “COZINE: COmpositional Zero-InflatedNetwork Estimation” author:
-“Min Jin Ha” date: “3/1/2020” output: md\_document: df\_print: paged
+Title: COZINE: COmpositional Zero-InflatedNetwork Estimation 
+Author: “Min Jin Ha” 
+Date: “3/1/2020” 
 
-    ---
+------------------------------------------------------------------------
 
 Overview
 --------
