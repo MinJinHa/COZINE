@@ -14,7 +14,7 @@ Overview
 This vignette describes how to use R/COZINE to estimate microbial
 network when the abundances in each sample are constrained to have a
 fixed sum and there is incomplete overlaping microbial populations
-across subjects, the data are both compositional andzero-inflated.
+across subjects, the data are both compositional and zero-inflated.
 
 COZINE with example
 -------------------
