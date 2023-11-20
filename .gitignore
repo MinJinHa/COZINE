@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.*~
+*.R#
+*.#*
+*.csv
+inst/doc
+tutorials/*/*.html
+vignettes/*.html

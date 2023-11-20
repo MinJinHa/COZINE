@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-Title: COZINE: COmpositional Zero-InflatedNetwork Estimation 
+Title: COZINE: COmpositional Zero-Inflated Network Estimation 
 
 Author: Min Jin Ha, mjha@mdanderson.org 
 
@@ -8,7 +8,7 @@ Date: “3/1/2020”
 
 ------------------------------------------------------------------------
 
-Overview
+## Overview
 --------
 
 This vignette describes how to use R/COZINE to estimate microbial
@@ -16,7 +16,7 @@ network when the abundances in each sample are constrained to have a
 fixed sum and there is incomplete overlaping microbial populations
 across subjects, the data are both compositional and zero-inflated.
 
-COZINE with example
+## COZINE with example
 -------------------
 
 We illustrate the usage of R/COZINE pakcage using 86 oral samples from

@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github
+^\.git
+^tutorials
+^papers
+^COZINE.git

@@ -1,10 +1,17 @@
 Package: COZINE
 Type: Package
-Title: What the package does (short line)
+Title: Functions to use in COZINE network analysis method
 Version: 1.0
 Date: 2020-02-29
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Min Jin Ha
+Maintainer: Unmaintained but nominally <mjha@mdanderson.org>
+Description: Provides convenience wrappers for common microbiome network analysis tasks.
 License: GPL
-Imports: HurdleNormal, compositions, igraph
+Encoding: UTF-8
+Imports:
+    compositions,
+    HurdleNormal,
+    methods,
+    igraph
+Remotes: amcdavid/HurdleNormal
+RoxygenNote: 7.2.3
